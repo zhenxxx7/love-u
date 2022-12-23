@@ -13,7 +13,7 @@ export default function Modal({visible, onClose}) {
                             <h1>
                                 <div class="mt-3 text-center sm:mt-0 sm:ml-4 sm:text-left">
                                     <h3 class="text-lg leading-6 font-medium text-secondary" id="modal-headline">
-                                        thank you because you have been to be my girlfriend
+                                        thank you for accepting me to be your girlfriend
                                     </h3>
                                     <img src={love} alt="" />
                                 </div>
