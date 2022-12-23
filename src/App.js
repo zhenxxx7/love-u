@@ -29,7 +29,6 @@ function App() {
 
         <div className='flex gap-2'>
           <button id='yes' className="bg-color1 rounded-full px-10 py-2 mt-4 "
-          onClick={apply}
             >
             <span className="text-2xl font-bold text-white">
               Yes
