@@ -18,7 +18,7 @@ export default function Modal({visible, onClose}) {
                                     <img src={love} alt="" />
                                 </div>
                                 <button
-                                    type="button" className="bg-color1 text-lg font-bold text-[#CEEDC7] rounded-full w-[20%] h-8"
+                                    type="button" className=" flex flex-col items-center justify-center bg-color1 text-lg font-bold text-[#CEEDC7] rounded-full w-[20%] h-8"
                                     onClick={onClose}
                                 >
                                     OK

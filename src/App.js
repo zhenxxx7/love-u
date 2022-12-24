@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   const reject = () => {
     let x = Math.floor(Math.random() * 300) + 1;
-    let y = Math.floor(Math.random() * 300);
+    let y = Math.floor(Math.random() * 300) + 1;
     document.getElementById('no').style
       .transform = `translate(${x}px, ${y}px)`;
   }
