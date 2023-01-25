@@ -57,7 +57,7 @@ function App() {
             </span>
           </button>
 
-          <button id='no' className="bg-color1 rounded-full px-12 py-2 mt-4"
+          <button id='no' className="bg-color1 rounded-full px-12 py-2 mt-4 overflow-hidden"
             onClick={reject}
             >
             <span className="text-2xl font-bold text-[#CEEDC7]">
